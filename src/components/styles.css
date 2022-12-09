@@ -1,0 +1,4 @@
+.ItemDisplay {
+  display: flex;
+  flex-direction: row;
+}
